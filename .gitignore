@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/build/
+
+# Runtime output
+output/
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# Credentials / secrets
+adobe-dc-pdfservices-sdk-credentials.json
+private.key
+.env
+
+# Editors
+.vscode/
+.idea/

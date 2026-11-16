@@ -1,0 +1,29 @@
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (built in multi-stage Dockerfile)
+frontend/node_modules/
+frontend/build/
+
+# Runtime output
+output/
+logs/
+*.log
+
+# OS
+.DS_Store
+
+# Credentials / secrets
+adobe-dc-pdfservices-sdk-credentials.json
+private.key
+.env
+
+# Docs not needed in image
+*.md

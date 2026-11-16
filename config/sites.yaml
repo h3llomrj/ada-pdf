@@ -1,0 +1,227 @@
+# Configuration for college websites organized by platform
+# Add your actual sites and platforms here
+
+platforms:
+  platform_1:
+    name: "Academic Departments"
+    sites:
+      - "https://aes.mgcafe.uky.edu"
+      - "https://afs.mgcafe.uky.edu"
+      - "https://agecon.mgcafe.uky.edu"
+      - "https://bae.mgcafe.uky.edu"
+      - "https://cld.mgcafe.uky.edu"
+      - "https://dhn.mgcafe.uky.edu"
+      - "https://entomology.mgcafe.uky.edu"
+      - "https://equine.mgcafe.uky.edu"
+      - "https://fam.mgcafe.uky.edu"
+      - "https://forestry.mgcafe.uky.edu"
+      - "https://hes.mgcafe.uky.edu"
+      - "https://horticulture.mgcafe.uky.edu"
+      - "https://ipss.mgcafe.uky.edu"
+      - "https://nres.mgcafe.uky.edu"
+      - "https://plantpathology.mgcafe.uky.edu"
+      - "https://pss.mgcafe.uky.edu"
+      - "https://rtm.mgcafe.uky.edu"
+      - "https://sto.mgcafe.uky.edu"
+      - "https://ucf.mgcafe.uky.edu"
+      - "https://ukla.mgcafe.uky.edu"
+      - "https://vetsci.mgcafe.uky.edu"
+      # "https://dwb.mgcafe.uky.edu"
+
+  platform_2:
+    name: "Administration"
+    sites:
+      # "https://cafebusinesscenter.mgcafe.uky.edu"
+      - "https://communications.mgcafe.uky.edu"
+      - "https://exclusives.mgcafe.uky.edu"
+      - "https://future.mgcafe.uky.edu"
+      - "https://gatton-legacy.mgcafe.uky.edu"
+      - "https://jobs.mgcafe.uky.edu"
+      - "https://ladder.mgcafe.uky.edu"
+      - "https://news.mgcafe.uky.edu"
+      - "https://onehealth.mgcafe.uky.edu"
+      - "https://www.rs.uky.edu/home"
+      - "https://ccd.uky.edu"
+      - "https://strategicplan.mgcafe.uky.edu"
+      - "https://publications.mgcafe.uky.edu"
+      # "https://marketing.ca.uky.edu"
+      # "https://webservices.mgcafe.uky.edu"
+
+  platform_3:
+    name: "Department Level A-M"
+    sites:
+      - "https://cfwc.mgcafe.uky.edu"
+      - "https://chfc.mgcafe.uky.edu"
+      - "https://coffeelab.mgcafe.uky.edu"
+      - "https://cropsundercover.mgcafe.uky.edu"
+      - "https://csa.mgcafe.uky.edu"
+      - "https://devrieslab.mgcafe.uky.edu"
+      - "https://eac-ky.mgcafe.uky.edu"
+      - "https://fern.mgcafe.uky.edu"
+      - "https://fhrec.mgcafe.uky.edu"
+      - "https://forages.mgcafe.uky.edu"
+      - "https://graincrops.mgcafe.uky.edu"
+      - "https://greenhousehort.mgcafe.uky.edu"
+      - "https://growforward.mgcafe.uky.edu"
+      - "https://havemeyer.mgcafe.uky.edu"
+      - "https://hemp.mgcafe.uky.edu"
+      - "https://horseparasites.mgcafe.uky.edu"
+      - "https://hunger.mgcafe.uky.edu"
+      - "https://ipm.mgcafe.uky.edu"
+      - "https://joneslab.mgcafe.uky.edu"
+      - "https://kalp.mgcafe.uky.edu"
+      - "https://kats.mgcafe.uky.edu"
+      - "https://kawashimalab.mgcafe.uky.edu"
+      - "https://kentucky-outdoors.mgcafe.uky.edu"
+      - "https://kfbm.mgcafe.uky.edu"
+      - "https://kflp.mgcafe.uky.edu"
+      - "https://kic.mgcafe.uky.edu"
+      - "https://ky-caps.mgcafe.uky.edu"
+      - "https://ky-ftce.mgcafe.uky.edu"
+      - "https://ky-maplesyrup.mgcafe.uky.edu"
+      - "https://kynep.ca.uky.edu"
+      - "https://kymasstimber.mgcafe.uky.edu"
+
+  platform_4:
+    name: "Department Level N-Z"
+    sites:
+      - "https://kyshortcourse.mgcafe.uky.edu"
+      - "https://kysnakes.mgcafe.uky.edu"
+      - "https://kytimberdamage.mgcafe.uky.edu"
+      - "https://kywoodlandsmagazine.mgcafe.uky.edu"
+      - "https://lingering-ash.mgcafe.uky.edu"
+      - "https://loggingeplroutes.mgcafe.uky.edu"
+      - "https://masterlogger.mgcafe.uky.edu"
+      - "https://mushrooms.mgcafe.uky.edu"
+      - "https://nal.mgcafe.uky.edu"
+      - "https://national4hpoultry.mgcafe.uky.edu"
+      - "https://naturalist.mgcafe.uky.edu"
+      - "https://ovlda.mgcafe.uky.edu"
+      - "https://performancenutritionlab.mgcafe.uky.edu"
+      - "https://rops.mgcafe.uky.edu"
+      - "https://ruminant.mgcafe.uky.edu"
+      - "https://sapkotalab.mgcafe.uky.edu"
+      - "https://seedbiology.mgcafe.uky.edu"
+      - "https://soilandwater.mgcafe.uky.edu"
+      - "https://soilscience.mgcafe.uky.edu"
+      - "https://tree-health.mgcafe.uky.edu"
+      - "https://treeresistance2018.mgcafe.uky.edu"
+      - "https://tristatewoods.mgcafe.uky.edu"
+      - "https://ukincometax.mgcafe.uky.edu"
+      - "https://ukturf.mgcafe.uky.edu"
+      - "https://varietytesting.mgcafe.uky.edu"
+      - "https://vegcrops.mgcafe.uky.edu"
+      - "https://veggiescout.mgcafe.uky.edu"
+      - "https://weedscience.mgcafe.uky.edu"
+      - "https://wheatscience.mgcafe.uky.edu"
+      - "https://white-oak-genetics.mgcafe.uky.edu"
+      - "https://win-with-wood.mgcafe.uky.edu"
+      - "https://winwin.mgcafe.uky.edu"
+      - "https://wosc.mgcafe.uky.edu"
+
+  platform_5:
+    name: "Department Level Extra"
+    sites:
+      - "https://kybtn.mgcafe.uky.edu"
+      - "https://foodashealthalliance.mgcafe.uky.edu"
+      - "https://fruitscout.mgcafe.uky.edu"
+      - "https://kentuckywoodindustry.mgcafe.uky.edu"
+      - "https://kynship.mgcafe.uky.edu"
+      - "https://localgrains.mgcafe.uky.edu"
+      - "https://pricelab.mgcafe.uky.edu"
+      - "https://ukwheatbreeding.mgcafe.uky.edu"
+
+  platform_6:
+    name: "Extension Administration"
+    sites:
+      - "https://4-h.mgcafe.uky.edu"
+      - "https://agrability.mgcafe.uky.edu"
+      - "https://anr.mgcafe.uky.edu"
+      - "https://aquaculture.mgcafe.uky.edu"
+      - "https://burleytobaccoextension.mgcafe.uky.edu"
+      - "https://bfrdp.mgcafe.uky.edu"
+      - "https://ces-manuals.mgcafe.uky.edu"
+      - "https://ces-personnel.mgcafe.uky.edu"
+      - "https://chies.mgcafe.uky.edu"
+      - "https://connect120.mgcafe.uky.edu"
+      - "https://csa.mgcafe.uky.edu"
+      - "https://darktobacco.mgcafe.uky.edu"
+      - "https://districts.mgcafe.uky.edu"
+      - "https://drought.mgcafe.uky.edu"
+      - "https://epsilonsigmaphi.mgcafe.uky.edu"
+      - "https://extension.mgcafe.uky.edu"
+      - "https://fruit.mgcafe.uky.edu"
+      - "https://grazer.mgcafe.uky.edu"
+      - "https://jcep.mgcafe.uky.edu"
+      - "https://kae4-ha.mgcafe.uky.edu"
+      - "https://kasep.mgcafe.uky.edu"
+      - "https://keha.mgcafe.uky.edu"
+      - "https://learningservices.mgcafe.uky.edu"
+      - "https://nursery-crop-extension.mgcafe.uky.edu"
+      - "https://psd.mgcafe.uky.edu"
+      - "https://regions.mgcafe.uky.edu"
+      - "https://reitc.mgcafe.uky.edu"
+      - "https://urbanextension.mgcafe.uky.edu"
+      - "https://water.mgcafe.uky.edu"
+
+  platform_7:
+    name: "Facilities"
+    sites:
+      - "https://arboretum.mgcafe.uky.edu"
+      - "https://bce.mgcafe.uky.edu"
+      - "https://beaminstitute.mgcafe.uky.edu"
+      - "https://bitelabky.mgcafe.uky.edu"
+      - "https://blueprintkentucky.mgcafe.uky.edu"
+      - "https://cearh.mgcafe.uky.edu"
+      - "https://facilities.mgcafe.uky.edu"
+      - "https://foodconnection.mgcafe.uky.edu"
+      - "https://fsic.mgcafe.uky.edu"
+      - "https://gfce.mgcafe.uky.edu"
+      - "https://gluck.mgcafe.uky.edu"
+      - "https://ktrdc.mgcafe.uky.edu"
+      - "https://robinson-center.mgcafe.uky.edu"
+      - "https://robinson-forest.mgcafe.uky.edu"
+      - "https://ufi.mgcafe.uky.edu"
+      - "https://ukrec.mgcafe.uky.edu"
+      - "https://winery.mgcafe.uky.edu"
+      #- "https://farmstand.mgcafe.uky.edu"
+
+  platform_8:
+    name: "FCS"
+    sites:
+      - "https://fcs.mgcafe.uky.edu"
+
+  platform_9:
+    name: "Main Campus Websites"
+    sites:
+      - "https://www.mgcafe.uky.edu"
+      - "https://events.mgcafe.uky.edu"
+      - "https://personnel.mgcafe.uky.edu"
+    accessibility:
+      disabled_rules:
+        - "missing_lang_attribute"  # False positive - lang attribute exists but checker misses complex HTML
+
+# Crawler settings
+crawler_settings:
+  max_depth: 5
+  max_pages: 1000
+  delay_between_requests: 1.0  # seconds
+  max_concurrent_requests: 10
+  timeout: 30
+  user_agent: "M-G CAFE Accessibility Checker 1.0"
+  respect_robots_txt: true
+  allowed_domains:
+    - "mgcafe.uky.edu"
+    - "ca.uky.edu"
+    - "rs.uky.edu"
+    - "ccd.uky.edu"
+    - "www.uky.edu"
+    - "engagement.uky.edu"
+    # "stg.uky.ag"
+  
+# Output settings
+output:
+  format: "json"  # json, csv, or both
+  include_html: false
+  include_headers: true
+  include_links: true
